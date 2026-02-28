@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/Desktop/resume-page-gem-main
+**URL**: https://landing-page-hv.lovable.app/
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/Desktop/resume-page-gem-mai) and start prompting.
+Simply visit the [https://landing-page-hv.lovable.app/) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/Desktop/resume-page-gem-mai) and click on Share -> Publish.
+Simply open [Lovable](https://landing-page-hv.lovable.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
