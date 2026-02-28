@@ -1,4 +1,4 @@
-# 💼 Resume Page – Portafolio Digital Personal
+# Resume Page – Portafolio Digital Personal
 
 ---
 
@@ -104,17 +104,12 @@ El proyecto está construido con componentes independientes que se pueden actual
 ## 6. Capturas de Pantalla
 
 ### Foto principal del portafolio
-![Foto del portafolio](https://raw.githubusercontent.com/rodriguezventuralauramichelle-dot/resume-page-gem-main/main/src/assets/foto.jpg)
+![inicio](src/assets/captura-inicio.png)
 
-### Foto de perfil profesional
-![Foto de perfil](https://raw.githubusercontent.com/rodriguezventuralauramichelle-dot/resume-page-gem-main/main/src/assets/profile-photo.png)
+### Sección de perfil profesional
+![habilidades](src/assets/captura-habilidades.png)
 
-### Imagen de referencia del proyecto
-![Referencia del proyecto](https://raw.githubusercontent.com/rodriguezventuralauramichelle-dot/resume-page-gem-main/main/src/assets/profile-reference.png)
-
-> 📌 *Para agregar más capturas del sitio funcionando, haz una captura de pantalla del proyecto en el navegador, guárdala en `src/assets/capturas/` y agrégala aquí con la misma sintaxis.*
-
----
+![Contacto](src/assets/captura-contacto.png)
 
 ## 7. Cómo Ejecutar el Proyecto
 
