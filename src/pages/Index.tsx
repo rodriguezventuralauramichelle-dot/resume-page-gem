@@ -91,6 +91,25 @@ const Index = () => {
         ))}
       </main>
 
+      {/* CTA Section */}
+      <section className="max-w-3xl mx-auto px-4 pb-16 text-center">
+        <div className="bg-card rounded-lg p-8 border border-primary/30 shadow-lg">
+          <h2 className="text-2xl font-display font-bold text-primary mb-3">
+            ¿Interesado en trabajar conmigo?
+          </h2>
+          <p className="text-foreground/80 mb-6">
+            Estoy disponible para prácticas profesionales y oportunidades laborales en soporte técnico y administración de plataformas tecnológicas.
+          </p>
+          <a
+            href="mailto:Rodriguezventuralauramichelle@gmail.com"
+            className="inline-block px-8 py-3 rounded-lg font-semibold text-primary-foreground transition-transform hover:scale-105"
+            style={{ background: "var(--gradient-warm)" }}
+          >
+            Contáctame
+          </a>
+        </div>
+      </section>
+
       {/* Contact Footer */}
       <footer
         className="text-center py-8"
