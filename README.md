@@ -1,4 +1,4 @@
-# 💼 Resume Page – Portafolio Digital Personal
+# Resume Page – Portafolio Digital Personal
 
 ---
 
@@ -179,4 +179,5 @@ Durante el desarrollo de este proyecto usé herramientas de IA de forma responsa
 🎓 Técnico Laboral en Plataformas Tecnológicas y Aplicaciones SG – Instituto I3
 
 ---
+
 *Proyecto Final – 2025*
